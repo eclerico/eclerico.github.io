@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks &amp; Conferences | Eugenio Clerico</title>
+    <link>https://example.com/event/</link>
+      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks &amp; Conferences</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks &amp; Conferences</title>
+      <link>https://example.com/event/</link>
+    </image>
+    
+    <item>
+      <title>COLT 2022</title>
+      <link>https://example.com/talk/colt-2022/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/colt-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AISTATS 2022</title>
+      <link>https://example.com/talk/aistats-2022/</link>
+      <pubDate>Mon, 28 Mar 2022 16:16:59 +0100</pubDate>
+      <guid>https://example.com/talk/aistats-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AISTATS 2021</title>
+      <link>https://example.com/talk/aistats-2021/</link>
+      <pubDate>Tue, 13 Apr 2021 16:16:59 +0100</pubDate>
+      <guid>https://example.com/talk/aistats-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

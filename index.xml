@@ -2,141 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eugenio Clerico</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eclerico.github.io/</link>
+      <atom:link href="https://eclerico.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Eugenio Clerico</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://eclerico.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Eugenio Clerico</title>
-      <link>https://example.com/</link>
+      <link>https://eclerico.github.io/</link>
     </image>
     
     <item>
       <title>Skills</title>
-      <link>https://example.com/old_home/skills/</link>
+      <link>https://eclerico.github.io/old_home/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/old_home/skills/</guid>
+      <guid>https://eclerico.github.io/old_home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://example.com/old_home/experience/</link>
+      <link>https://eclerico.github.io/old_home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/old_home/experience/</guid>
+      <guid>https://eclerico.github.io/old_home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://example.com/old_home/accomplishments/</link>
+      <link>https://eclerico.github.io/old_home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/old_home/accomplishments/</guid>
+      <guid>https://eclerico.github.io/old_home/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://example.com/old_home/posts/</link>
+      <link>https://eclerico.github.io/old_home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/old_home/posts/</guid>
+      <guid>https://eclerico.github.io/old_home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/old_home/projects/</link>
+      <link>https://eclerico.github.io/old_home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/old_home/projects/</guid>
+      <guid>https://eclerico.github.io/old_home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>https://example.com/old_home/featured/</link>
+      <link>https://eclerico.github.io/old_home/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/old_home/featured/</guid>
+      <guid>https://eclerico.github.io/old_home/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Popular Topics</title>
-      <link>https://example.com/old_home/tags/</link>
+      <link>https://eclerico.github.io/old_home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/old_home/tags/</guid>
+      <guid>https://eclerico.github.io/old_home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A PAC-Bayesian bound for deterministic algorithms</title>
-      <link>https://example.com/publication/pacbayesgd/</link>
+      <link>https://eclerico.github.io/publication/pacbayesgd/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pacbayesgd/</guid>
+      <guid>https://eclerico.github.io/publication/pacbayesgd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COLT 2022</title>
-      <link>https://example.com/talk/colt-2022/</link>
+      <link>https://eclerico.github.io/talk/colt-2022/</link>
       <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/colt-2022/</guid>
+      <guid>https://eclerico.github.io/talk/colt-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chained generalisation bounds</title>
-      <link>https://example.com/publication/chained/</link>
+      <link>https://eclerico.github.io/publication/chained/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/chained/</guid>
+      <guid>https://eclerico.github.io/publication/chained/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AISTATS 2022</title>
-      <link>https://example.com/talk/aistats-2022/</link>
+      <link>https://eclerico.github.io/talk/aistats-2022/</link>
       <pubDate>Mon, 28 Mar 2022 16:16:59 +0100</pubDate>
-      <guid>https://example.com/talk/aistats-2022/</guid>
+      <guid>https://eclerico.github.io/talk/aistats-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditionally Gaussian PAC-Bayes</title>
-      <link>https://example.com/publication/condgauss/</link>
+      <link>https://eclerico.github.io/publication/condgauss/</link>
       <pubDate>Tue, 01 Feb 2022 18:45:44 +0100</pubDate>
-      <guid>https://example.com/publication/condgauss/</guid>
+      <guid>https://eclerico.github.io/publication/condgauss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wide stochastic networks: Gaussian limit and PAC-Bayesian training</title>
-      <link>https://example.com/publication/wide/</link>
+      <link>https://eclerico.github.io/publication/wide/</link>
       <pubDate>Tue, 01 Jun 2021 18:52:37 +0100</pubDate>
-      <guid>https://example.com/publication/wide/</guid>
+      <guid>https://eclerico.github.io/publication/wide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AISTATS 2021</title>
-      <link>https://example.com/talk/aistats-2021/</link>
+      <link>https://eclerico.github.io/talk/aistats-2021/</link>
       <pubDate>Tue, 13 Apr 2021 16:16:59 +0100</pubDate>
-      <guid>https://example.com/talk/aistats-2021/</guid>
+      <guid>https://eclerico.github.io/talk/aistats-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stable ResNet</title>
-      <link>https://example.com/publication/stable/</link>
+      <link>https://eclerico.github.io/publication/stable/</link>
       <pubDate>Mon, 01 Mar 2021 18:57:04 +0100</pubDate>
-      <guid>https://example.com/publication/stable/</guid>
+      <guid>https://eclerico.github.io/publication/stable/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://eclerico.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://eclerico.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

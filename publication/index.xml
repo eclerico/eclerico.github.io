@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papers | Eugenio Clerico</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eclerico.github.io/publication/</link>
+      <atom:link href="https://eclerico.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Papers</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://eclerico.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Papers</title>
-      <link>https://example.com/publication/</link>
+      <link>https://eclerico.github.io/publication/</link>
     </image>
     
     <item>
       <title>A PAC-Bayesian bound for deterministic algorithms</title>
-      <link>https://example.com/publication/pacbayesgd/</link>
+      <link>https://eclerico.github.io/publication/pacbayesgd/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pacbayesgd/</guid>
+      <guid>https://eclerico.github.io/publication/pacbayesgd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chained generalisation bounds</title>
-      <link>https://example.com/publication/chained/</link>
+      <link>https://eclerico.github.io/publication/chained/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/chained/</guid>
+      <guid>https://eclerico.github.io/publication/chained/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditionally Gaussian PAC-Bayes</title>
-      <link>https://example.com/publication/condgauss/</link>
+      <link>https://eclerico.github.io/publication/condgauss/</link>
       <pubDate>Tue, 01 Feb 2022 18:45:44 +0100</pubDate>
-      <guid>https://example.com/publication/condgauss/</guid>
+      <guid>https://eclerico.github.io/publication/condgauss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wide stochastic networks: Gaussian limit and PAC-Bayesian training</title>
-      <link>https://example.com/publication/wide/</link>
+      <link>https://eclerico.github.io/publication/wide/</link>
       <pubDate>Tue, 01 Jun 2021 18:52:37 +0100</pubDate>
-      <guid>https://example.com/publication/wide/</guid>
+      <guid>https://eclerico.github.io/publication/wide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stable ResNet</title>
-      <link>https://example.com/publication/stable/</link>
+      <link>https://eclerico.github.io/publication/stable/</link>
       <pubDate>Mon, 01 Mar 2021 18:57:04 +0100</pubDate>
-      <guid>https://example.com/publication/stable/</guid>
+      <guid>https://eclerico.github.io/publication/stable/</guid>
       <description></description>
     </item>
     
